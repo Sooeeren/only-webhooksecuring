@@ -1,0 +1,25 @@
+{
+  "name": "only-webhooksecuring",
+  "version": "1.0.0",
+  "description": "Webhook securer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DasistOnly/only-webhooksecuring.git"
+  },
+  "author": "Only#4440",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DasistOnly/only-webhooksecuring/issues"
+  },
+  "homepage": "https://github.com/DasistOnly/only-webhooksecuring#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.10.4",
+    "request": "^2.88.2"
+  }
+}
